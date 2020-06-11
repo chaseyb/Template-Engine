@@ -36,7 +36,9 @@
   Collaborate
             
   ##  Tests
-  n/a
+  ```
+  npm run test
+  ```
 
   ## Questions?
   * [Chaseyb](https://github.com/Chaseyb)
