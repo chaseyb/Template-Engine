@@ -2,6 +2,7 @@
   # Template Engine 
   ![badge](https://img.shields.io/badge/License-Open-blue.svg)
 
+
   ## Table of Contents
   - [Description](#description)
   - [Installation](#install)
@@ -12,24 +13,30 @@
   - [Questions](#questions)
     
   ## Description
-  ### A simple template engine designed to generate a wbesite that displays a teams basic information.
+  A simple template engine designed to generate a wbesite that displays a teams basic information.
 
   ## Install
+  Open README-Generator in Terminal/CLI, and enter:
+
   ```
   npm install
+  node index.js 
   ```
           
   ## Usage
-  ### This project will be used for someone to easily create a website by providing info about their employees 
+  This project will be used for someone to easily create a website by providing info about their employees.
           
   ## Licences 
   This project is licenced under Open
+  
+  ## Contributors
+  Chase Johnson  
           
   ## Contribution
-  ### Collaborate
+  Collaborate
             
   ##  Tests
-  ### n/a
+  n/a
 
   ## Questions?
   * [Chaseyb](https://github.com/Chaseyb)
