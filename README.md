@@ -12,7 +12,7 @@
   - [Questions](#questions)
     
   ## Description
-  ### A simple template engine designed to generate a wbesite that displays a teams basic information.
+  A simple template engine designed to generate a wbesite that displays a teams basic information.
 
   ## Install
   ```
@@ -20,16 +20,16 @@
   ```
           
   ## Usage
-  ### This project will be used for someone to easily create a website by providing info about their employees 
+  This project will be used for someone to easily create a website by providing info about their employees.
           
   ## Licences 
   This project is licenced under Open
           
   ## Contribution
-  ### Collaborate
+  Collaborate
             
   ##  Tests
-  ### n/a
+  n/a
 
   ## Questions?
   * [Chaseyb](https://github.com/Chaseyb)
