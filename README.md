@@ -15,8 +15,11 @@
   A simple template engine designed to generate a wbesite that displays a teams basic information.
 
   ## Install
+  Open README-Generator in Terminal/CLI, and enter:
+
   ```
   npm install
+  node index.js 
   ```
           
   ## Usage
@@ -24,6 +27,9 @@
           
   ## Licences 
   This project is licenced under Open
+  
+  ## Contributors
+  Chase Johnson  
           
   ## Contribution
   Collaborate
