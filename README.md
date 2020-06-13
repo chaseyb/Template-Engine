@@ -15,7 +15,7 @@
   - [Questions](#questions)
     
   ## Description
-  A simple template engine designed to generate a wbesite that displays a teams basic information.
+  A simple template engine designed to generate a website that displays a team's basic information.
 
   ## Install
   Open README-Generator in Terminal/CLI, and enter:
