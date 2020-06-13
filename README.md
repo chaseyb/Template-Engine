@@ -2,6 +2,8 @@
   # Template Engine 
   ![GitHub language count](https://img.shields.io/github/languages/count/chaseyb/hot-restaurant)
   ![GitHub top language](https://img.shields.io/github/languages/top/chaseyb/hot-restaurant)
+  
+  <img src="assets/template-demo.png">
 
   ## Table of Contents
   - [Description](#description)
@@ -39,6 +41,7 @@
   ```
   npm run test
   ```
+  <img src="assets/tests.png" width="700" height="400">>
 
   ## Questions?
   * [Chaseyb](https://github.com/Chaseyb)
