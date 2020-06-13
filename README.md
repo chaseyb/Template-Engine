@@ -1,7 +1,7 @@
 
   # Template Engine 
-  ![badge](https://img.shields.io/badge/License-Open-blue.svg)
-
+  ![GitHub language count](https://img.shields.io/github/languages/count/chaseyb/hot-restaurant)
+  ![GitHub top language](https://img.shields.io/github/languages/top/chaseyb/hot-restaurant)
 
   ## Table of Contents
   - [Description](#description)
@@ -27,7 +27,7 @@
   This project will be used for someone to easily create a website by providing info about their employees.
           
   ## Licences 
-  This project is licenced under Open
+  ![badge](https://img.shields.io/badge/License-Open-blue.svg)
   
   ## Contributors
   Chase Johnson  
