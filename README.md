@@ -1,7 +1,7 @@
 
   # Template Engine 
-  ![GitHub language count](https://img.shields.io/github/languages/count/chaseyb/hot-restaurant)
-  ![GitHub top language](https://img.shields.io/github/languages/top/chaseyb/hot-restaurant)
+  ![GitHub language count](https://img.shields.io/github/languages/count/chaseyb/Template-Engine)
+  ![GitHub top language](https://img.shields.io/github/languages/top/chaseyb/Template-Engine)
   
   <img src="assets/template-demo.png">
 
